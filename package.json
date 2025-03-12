@@ -2,12 +2,15 @@
   "name": "personal-portfolio-rfirdaus",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://kiinanishihara.github.io/Personal-Portfolio-Rfirdaus",
+
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
     "@testing-library/react": "^16.2.0",
     "@testing-library/user-event": "^13.5.0",
     "bootstrap": "^5.3.3",
+    "gh-pages": "^6.3.0",
     "install": "^0.13.0",
     "npm": "^11.2.0",
     "react": "^19.0.0",
@@ -21,8 +24,12 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
+
+
   },
   "eslintConfig": {
     "extends": [
