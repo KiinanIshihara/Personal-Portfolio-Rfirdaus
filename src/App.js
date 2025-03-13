@@ -5,17 +5,27 @@ import { Banner } from './components/Banner';
 import { Skills } from './components/Skills';
 import { Projects } from './components/Projects';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import tempBg from './assets/img/IMG_7707.png';
 
 
 function App() {
   return (
-    <div className="App">
+    <section className="page">
+      <div className="overlay"></div>
+      <img src={tempBg} alt="uni the cat"></img>
+      <div className="page__content">
+        <h1>Portfolio Website Under Development!</h1>
+        <h3>This website will be up and running within the month.</h3>
+        <h5>Thank you for your patience!</h5>
+      </div>
+    </section>
+    /**<div className="App">
       <NavBar />
       <Banner />
       <Skills />
       <Projects />
 
-    </div>
+    </div> **/
   );
 }
 
