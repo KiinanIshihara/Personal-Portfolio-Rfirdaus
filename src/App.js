@@ -12,7 +12,6 @@ import { LinkedinShareButton, WhatsappShareButton, EmailIcon, LinkedinIcon, What
 function App() {
 
   const linkedinUrl = "https://www.linkedin.com/in/radiya-firdaus/";
-  const linkedInTitle = "Here's my LinkedIn page:";
   const emailSubject = encodeURIComponent("Hi, let's connect!");
   const recipientEmail = "rfirdaus@wisc.edu";
 
@@ -34,11 +33,9 @@ function App() {
             </button>
           </a>
             
-         
-          <LinkedinShareButton url={linkedinUrl} quote={linkedInTitle}>
-            <LinkedinIcon size={40} round={true}></LinkedinIcon>
-          </LinkedinShareButton>
-
+          <a href={linkedinUrl} target="_blank" rel="noopener noreferrer">
+            <button><LinkedinIcon size={40} round={true}></LinkedinIcon></button>
+          </a>
 
 
 
