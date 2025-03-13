@@ -15,7 +15,7 @@ function App() {
       <img src={tempBg} alt="uni the cat"></img>
       <div className="page__content">
         <h1>Portfolio Website Under Development!</h1>
-        <h3>This website will be up and running within the month.</h3>
+        <h3>Radiya's portfolio will be up and running within the month of March.</h3>
         <h5>Thank you for your patience!</h5>
       </div>
     </section>
