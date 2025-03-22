@@ -22,6 +22,11 @@ function App() {
       <div className="page__content">
         <h1>Portfolio Website Under Development!</h1>
         <h3  style={{marginTop:"5px"}}>Radiya's portfolio will be up and running within the month of March.</h3>
+        <p style={{textAlign:"center", paddingLeft:"50px", paddingRight:"50px"}}>
+          While my full website is still under construction, you can view a PDF version of my <a href="https://drive.google.com/file/d/1tBbBTrumTP043U8U2C-tUpVNzjlsG1Ge/view?usp=sharing" target="_blank" rel="noopener noreferrer">Project Portfolio here</a>
+
+        </p>
+        <br></br>
         <h5>Thank you for your patience!</h5>
 
         <div style={{textAlign:"center", marginTop:"10px"}}>
