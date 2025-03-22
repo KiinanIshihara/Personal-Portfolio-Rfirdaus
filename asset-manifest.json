@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Personal-Portfolio-Rfirdaus/static/css/main.30497322.css",
-    "main.js": "/Personal-Portfolio-Rfirdaus/static/js/main.de158370.js",
+    "main.js": "/Personal-Portfolio-Rfirdaus/static/js/main.a380f888.js",
     "static/js/453.0a3a5b32.chunk.js": "/Personal-Portfolio-Rfirdaus/static/js/453.0a3a5b32.chunk.js",
     "static/media/color-sharp.png": "/Personal-Portfolio-Rfirdaus/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/Personal-Portfolio-Rfirdaus/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
@@ -27,11 +27,11 @@
     "static/media/nav-icon1.svg": "/Personal-Portfolio-Rfirdaus/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "static/media/nav-icon2.svg": "/Personal-Portfolio-Rfirdaus/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.30497322.css.map": "/Personal-Portfolio-Rfirdaus/static/css/main.30497322.css.map",
-    "main.de158370.js.map": "/Personal-Portfolio-Rfirdaus/static/js/main.de158370.js.map",
+    "main.a380f888.js.map": "/Personal-Portfolio-Rfirdaus/static/js/main.a380f888.js.map",
     "453.0a3a5b32.chunk.js.map": "/Personal-Portfolio-Rfirdaus/static/js/453.0a3a5b32.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.30497322.css",
-    "static/js/main.de158370.js"
+    "static/js/main.a380f888.js"
   ]
 }
